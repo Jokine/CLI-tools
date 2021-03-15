@@ -1,1 +1,0 @@
-gpr push "$1/bin/Release/$1.$2.nupkg" > NugetPackagePublishLog.txt
